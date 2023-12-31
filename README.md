@@ -1,4 +1,5 @@
 # JavaEssentialsPrimer 🚀
+## i have studied java from here : https://www.udemy.com/course/java-se-programming/
 ## Welcome to "JavaEssentialsPrimer," your gateway to mastering foundational Java concepts before diving into Object-Oriented Programming (OOP).
 
 # Overview 🌐
